@@ -1,0 +1,63 @@
+.container {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  margin: auto;
+}
+
+header {
+  height: 50px;
+  background-color: #6ec1e4;
+  border-radius: 15px;
+  border-radius: 10px 10px 0 0;
+}
+img {
+  width: 100px;
+
+  border-radius: 167px;
+  border: 1px solid #ffffff;
+}
+.imgMe {
+  position: relative;
+}
+
+.imgMe img {
+  height: 100px;
+  border-radius: 200px;
+  position: absolute;
+  bottom: 5px;
+}
+
+h1 {
+  margin-top: 70px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+
+  padding-left: 0px;
+}
+
+li {
+  margin-right: 10px;
+}
+.textDescription {
+    font-size: 15px;
+    text-align: justify;
+}
+.btnEditProfile{
+    height: 36px;
+    background-color: #dde7ef;
+    border-radius: 5px;
+    width: 90px;
+    border: none;
+}
+
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+

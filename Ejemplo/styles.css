@@ -1,0 +1,17 @@
+h1 {
+    background-color: blue;
+    color:red;
+    font-size: 50px;
+}
+
+.grupo{
+    background-color: brown;
+    
+}
+
+#id1{
+    background-color: yellow;
+    outline: 1px solid red;
+
+}
+

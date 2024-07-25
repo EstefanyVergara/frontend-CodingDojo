@@ -1,0 +1,51 @@
+header{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #b3b3b3;
+    align-items: center;
+}
+.search{
+    height: 13px;
+}
+#toggleInOut{
+    color: white;
+    background-color: rgb(64, 163, 221);
+    height: 25px;
+}
+
+
+main{
+    display: flex;
+}
+
+.containerAside{
+    display: flex;
+    align-items: flex-start;
+}
+
+ .left{
+    
+}
+
+ .right{
+    flex: 1;
+    margin: 10px;
+    border: solid black 2px;
+    height: 87px;
+    padding: 10px;
+    flex: 4;
+}
+
+section{
+    margin:10px;
+    border: solid black 2px;
+    padding: 10px;
+
+}
+
+#btnDefinition{
+    color: white;
+    background-color: rgb(28, 136, 41);
+    height: 25px;
+    width: 209px;
+}

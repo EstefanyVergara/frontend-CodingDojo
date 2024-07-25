@@ -1,0 +1,39 @@
+.light {
+  background-color: lightseagreen;
+  width: 300px;
+  height: 100px;
+  color: aliceblue;
+  text-align: center;
+  margin: 25px
+}
+
+.fucsia {
+  background-color: fuchsia;
+  width: 300px;
+  height: 100px;
+  color: aliceblue;
+  text-align: center;
+  margin: 25px
+}
+
+.marino{
+  
+        background-color:blue;
+        width: 300px;
+        height: 100px;
+        color: aliceblue;
+        text-align: center;
+        margin: 25px
+}
+
+.padre{
+    display: flex;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    text-decoration:underline wavy ;
+
+}

@@ -1,0 +1,12 @@
+.container-amarillo{
+    border:solid yellow;
+    height: 1000px;
+    width:  1000px;
+}
+
+.encabezado-rosa{
+    border:solid rgb(161, 13, 180);
+    height: 200px;
+    width: 980px;
+    margin: 10px 10px;
+}
